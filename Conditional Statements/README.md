@@ -6,7 +6,7 @@
 
 <body>
 
-<h1><a id="hackerrank-challenge-if-else-conditional" href="#hackerrank-challenge-if-else-conditional">HackerRank Challenge: If-Else Conditional</a></h1>
+<h1><a href = "https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem?isFullScreen=true">Conditional Statements</a></h1>
 
 <h2>Introduction</h2>
 <p><code>if</code> and <code>else</code> are two of the most frequently used conditionals in C/C++, and they enable you to execute zero or one conditional statement among many such dependent conditional statements. We use them in the following ways:</p>
